@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="RegressionProblem"/>
+<fullyQualifiedTypeName name="org.jgap.gp.GPProblem"/>
+<fullyQualifiedTypeName name="org.jgap.InvalidConfigurationException"/>
+<fullyQualifiedTypeName name="org.jgap.gp.impl.GPGenotype"/>
+<fullyQualifiedTypeName name="org.jgap.gp.function.Multiply3"/>
+<fullyQualifiedTypeName name="org.jgap.gp.impl.GPConfiguration"/>
+<fullyQualifiedTypeName name="org.jgap.gp.impl.DeltaGPFitnessEvaluator"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.jgap.gp.CommandGene"/>
+<fullyQualifiedTypeName name="RegressionFitnessFunction"/>
+<fullyQualifiedTypeName name="org.jgap.gp.terminal.Variable"/>
+<fullyQualifiedTypeName name="org.jgap.gp.function.Add"/>
+<fullyQualifiedTypeName name="org.jgap.FitnessFunction"/>
+<fullyQualifiedTypeName name="org.jgap.IChromosome"/>
+</qualifiedTypeNameHistroy>

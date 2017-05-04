@@ -1,0 +1,92 @@
+[04.05.2017 22:41:04,523] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[04.05.2017 22:41:04,531] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 92.0 MB
+[04.05.2017 22:41:04,551] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[04.05.2017 22:41:04,588] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 92.0 MB
+[04.05.2017 22:43:21,101] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[04.05.2017 22:43:21,109] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 92.0 MB
+[04.05.2017 22:43:21,121] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[04.05.2017 22:43:21,163] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 92.0 MB
+[04.05.2017 22:43:21,167] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[04.05.2017 22:43:22,100] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 71.81
+[04.05.2017 22:43:22,101] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((cosine (((cosine (X * X)) + (X * X)) + X)) + (((cosine ((cosine (X / 7.1892347)) + X)) + ((cosine ((cosine (X / ((X * X) + ((cosine (X + (((X + (((cosine X) + (cosine (X / 7.1892347))) + (cosine (cosine (X + ((cosine (X * (X * X))) + X)))))) + (X * X)) + (X * X)))) + (X * X))))) + X)) + (X * X))) + (X * X))) + (X * X)
+[04.05.2017 22:43:22,101] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 24
+[04.05.2017 22:44:28,698] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[04.05.2017 22:44:28,705] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 92.0 MB
+[04.05.2017 22:44:28,718] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[04.05.2017 22:44:28,763] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 92.0 MB
+[04.05.2017 22:44:28,766] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[04.05.2017 22:44:29,601] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[04.05.2017 22:44:29,601] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (5.9640427 / 5.9640427) + (((X * X) - X) * ((X * X) - X))
+[04.05.2017 22:44:29,602] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[04.05.2017 22:46:57,999] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[04.05.2017 22:46:58,008] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 92.0 MB
+[04.05.2017 22:46:58,020] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[04.05.2017 22:46:58,062] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 92.0 MB
+[04.05.2017 22:46:58,065] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[04.05.2017 22:46:58,836] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 20.48
+[04.05.2017 22:46:58,836] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Exp(X)) - (((((-2.8435206 + -2.8435206) * (Exp(X))) / (((((((0.7303381 * 0.7303381) / (Exp(X))) / (Exp(X))) - X) + ((((cosine 9.005074) - X) + ((4.815008 * 6.8021317) / (Exp(X)))) / (Exp(X)))) - ((Exp(X)) + ((Exp(X)) / (Exp(X))))) - ((X - (Exp(X))) - (Exp(X))))) - X) / ((X - (Exp(X))) - (Exp(X))))) + ((((cosine 9.005074) - X) + ((0.7303381 * 0.7303381) / (Exp(X)))) / (Exp(X)))
+[04.05.2017 22:46:58,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 12
+[04.05.2017 22:47:15,838] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[04.05.2017 22:47:15,846] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 92.0 MB
+[04.05.2017 22:47:15,859] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[04.05.2017 22:47:15,909] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 92.0 MB
+[04.05.2017 22:47:15,912] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[04.05.2017 22:47:16,500] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 28.22
+[04.05.2017 22:47:16,501] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((cosine ((X * X) + ((X * X) * (0.38315248 ^ X)))) + (X * X)) + ((X * X) * (0.38315248 ^ X))) + ((cosine ((cosine (((cosine ((cosine ((0.38315248 ^ X) + (X * X))) + (sine -2.118266))) + (0.38315248 ^ X)) + ((X * X) + (0.38315248 ^ X)))) + (sine -2.118266))) + (X * X))
+[04.05.2017 22:47:16,502] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 12
+[04.05.2017 22:47:22,659] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[04.05.2017 22:47:22,671] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 92.0 MB
+[04.05.2017 22:47:22,685] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[04.05.2017 22:47:22,736] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 92.0 MB
+[04.05.2017 22:47:22,740] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[04.05.2017 22:47:23,404] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[04.05.2017 22:47:23,404] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X * X) + (((((X - X) * X) + (((X * X) - X) - X)) * (X * X)) + (5.7716208 / 5.7716208))
+[04.05.2017 22:47:23,405] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[04.05.2017 22:52:45,478] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[04.05.2017 22:52:45,486] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 92.0 MB
+[04.05.2017 22:52:45,499] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[04.05.2017 22:52:45,546] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 92.0 MB
+[04.05.2017 22:52:45,549] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[04.05.2017 22:52:46,511] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 22.16
+[04.05.2017 22:52:46,511] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: X * (((X * 3.9172838) - ((((cosine (-0.8773992 - -0.8773992)) - (((cosine (cosine 8.230888)) ^ (X + 5.936824)) * (cosine X))) ^ (((sine (cosine ((cosine -0.8773992) - (((X * 3.9172838) - ((cosine -0.8773992) * ((X * X) + 3.9172838))) + (cosine (X - X)))))) + (cosine X)) / (cosine (cosine X)))) * ((X * X) + 3.9172838))) + (cosine -0.8773992))
+[04.05.2017 22:52:46,512] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 15
+[04.05.2017 22:52:55,013] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[04.05.2017 22:52:55,022] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 92.0 MB
+[04.05.2017 22:52:55,034] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[04.05.2017 22:52:55,077] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 92.0 MB
+[04.05.2017 22:52:55,080] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[04.05.2017 22:52:55,534] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 20.00
+[04.05.2017 22:52:55,534] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X * X) - X) * ((X * X) - X)
+[04.05.2017 22:52:55,535] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[04.05.2017 22:53:18,248] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[04.05.2017 22:53:18,259] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 92.0 MB
+[04.05.2017 22:53:18,277] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[04.05.2017 22:53:18,323] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 92.0 MB
+[04.05.2017 22:53:18,328] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[04.05.2017 22:53:19,081] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 23.55
+[04.05.2017 22:53:19,081] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((cosine ((cosine ((X * X) ^ 0.029678345)) ^ 0.029678345)) ^ (X - (X * X))) + (X * X)
+[04.05.2017 22:53:19,082] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[04.05.2017 22:53:22,950] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[04.05.2017 22:53:22,960] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 92.0 MB
+[04.05.2017 22:53:22,972] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[04.05.2017 22:53:23,010] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 92.0 MB
+[04.05.2017 22:53:23,014] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[04.05.2017 22:53:24,164] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 72.29
+[04.05.2017 22:53:24,164] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((-7.978755 - X) / (sine -7.978755)) ^ (X / ((cosine (sine ((((sine (cosine ((-7.978755 - X) / ((-7.978755 - X) + (cosine ((cosine (sine (-5.033411 - (-7.978755 - X)))) + X)))))) * 5.4652605) ^ (cosine (sine (cosine (((-7.978755 - X) + (cosine ((sine (0.62053204 - X)) + X))) / X))))) ^ ((X + -7.978755) / ((cosine (sine (cosine ((-5.033411 - X) / ((-7.978755 - X) + (cosine (X + X))))))) + X))))) + X))) ^ ((((X + X) / (cosine 9.433949)) + X) * (cosine (sine (X - (sine (-5.033411 - X))))))
+[04.05.2017 22:53:24,165] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 19
+[04.05.2017 22:53:27,917] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[04.05.2017 22:53:27,926] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 92.0 MB
+[04.05.2017 22:53:27,938] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[04.05.2017 22:53:27,981] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 92.0 MB
+[04.05.2017 22:53:27,986] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[04.05.2017 22:53:28,716] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 41.69
+[04.05.2017 22:53:28,717] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X * X) + ((((sine (((cosine ((cosine 1.5415201) * X)) - X) * X)) + (((X * X) - X) - X)) - X) + (X * X))) + ((X / ((1.5415201 * X) + ((((X * X) - X) + (((X * X) + (((((X * X) - X) - X) - X) + ((X + (5.202507 * (cosine (X + 8.19173)))) / ((X * X) - X)))) + X)) - X))) + ((X * X) - X))
+[04.05.2017 22:53:28,717] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 14
+[04.05.2017 22:53:50,816] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[04.05.2017 22:53:50,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 92.0 MB
+[04.05.2017 22:53:50,836] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[04.05.2017 22:53:50,940] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 92.0 MB
+[04.05.2017 22:53:50,945] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[04.05.2017 22:55:01,477] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 10.89
+[04.05.2017 22:55:01,477] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X * X) + ((cosine ((X * X) + (cosine X))) - (cosine (cosine X)))) + (((X * X) + (cosine ((((sine X) + (X * X)) + ((cosine X) - (cosine (((X * X) + (cosine (X - X))) - (X - ((((X * X) / (6.365502 ^ X)) + (X * X)) - X)))))) - (cosine (cosine (X * (sine X))))))) - (X - (((((sine X) + (X * X)) / (2.6856804 ^ X)) + (X * X)) - X)))
+[04.05.2017 22:55:01,478] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 14
