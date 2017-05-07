@@ -1,2 +1,4 @@
+activeuserprofiles=Team;bistro-breton;symphony-lounge
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=jamesbadi
+useridperkey=bistro-breton.Local\=jamesbadi;

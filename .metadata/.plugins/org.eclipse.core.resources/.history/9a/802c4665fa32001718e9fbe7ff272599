@@ -1,0 +1,12 @@
+import org.jgap.gp.GPFitnessFunction;
+import org.jgap.gp.IGPProgram;
+
+public class ClassifierFitnessFunction extends GPFitnessFunction {
+
+	@Override
+	protected double evaluate(IGPProgram arg0) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

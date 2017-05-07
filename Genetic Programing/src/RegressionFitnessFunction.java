@@ -28,7 +28,7 @@ public class RegressionFitnessFunction extends GPFitnessFunction {
 				Variable v = (Variable) var;
 				v.set(x[i]);
 			}else {
-				System.out.println("KILL ME PLEASE!!!");
+				throw new RuntimeException("First node in node set was not a Variable");
 			}
 			try {
 				// Execute the GP program representing the function to be evolved.
@@ -54,10 +54,10 @@ public class RegressionFitnessFunction extends GPFitnessFunction {
 				throw ex;
 			}
 		}
-		// In case the error is small enough, consider it perfect.
-		// -------------------------------------------------------
-		if (error < 0.0001) {
-			error = 0.0d;
+		if(!Double.isNaN(error)){
+			error = (double)Math.round(error * 1000d) / 1000d;
+			error = error * 100000;
+			error = error + ind.getChromosome(0).getDepth(0);
 		}
 		return error;
 	}
