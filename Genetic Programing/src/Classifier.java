@@ -47,14 +47,16 @@ public class Classifier {
 		GPConfiguration config = new GPConfiguration();
 		config.setGPFitnessEvaluator(new DefaultGPFitnessEvaluator());
 		config.setMaxInitDepth(6);
-		config.setPopulationSize(1000);
+		config.setPopulationSize(150);
 		List<double[]> trainingPatients = readData(args[0]);
 		ClassifierFitnessFunction trainingFunction = new ClassifierFitnessFunction(trainingPatients);
 		config.setFitnessFunction(trainingFunction);
+		config.setMutationProb(0.05f);
+		config.setReproductionProb(0.05f);
 		GPGenotype gp = create(config);
 		// Do 100 evolutions in a row.
 		// ---------------------------
-		gp.evolve(100);
+		gp.evolve(75);
 		// Output best solution found.
 		// ---------------------------
 		IGPProgram best = gp.getAllTimeBest();

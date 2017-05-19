@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item value="C:\Users\Admin\Documents\Uni Stuff\comp307\Comp307" key="org.eclipse.jdt.ui.lastextjar"/>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+	</section>
 	<section name="GenerateConstructorUsingFieldsSelectionDialog">
 		<item value="false" key="OmitCallToSuper"/>
 	</section>
@@ -48,16 +50,21 @@
 	</section>
 	<section name="FatJarPackageWizard">
 		<item value="C:\Users\Admin\Documents\Uni Stuff\comp307\Comp307" key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION"/>
-		<item value="RegressionProblem - GeneticProgramming" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
-		<item value="C:\Users\Admin\Documents\Uni Stuff\comp307\doesthiswork.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
+		<item value="Classifier - Genetic Programing" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
+		<item value="C:\Users\Admin\Documents\Uni Stuff\comp307\A2Part3.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
 		<item value="false" key="FatJarPackageWizardPage.ANTSCRIPT_SAVE"/>
 		<item value="1" key="FatJarPackageWizardPage.LIBRARY_HANDLING"/>
 		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\Users\Admin\Documents\Uni Stuff\comp307\A2Part3.jar"/>
+			<item value="C:\Users\Admin\Documents\Uni Stuff\comp307\A2Part2.jar"/>
 			<item value="C:\Users\Admin\Documents\Uni Stuff\comp307\doesthiswork.jar"/>
 		</list>
 		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value="C:\Users\Admin\Documents\Uni Stuff\comp307\Comp307.xml"/>
 			<item value=".xml"/>
 		</list>
+	</section>
+	<section name="RenameInformationPopup">
 	</section>
 	<section name="ClasspathContainerSelectionPage">
 		<item value="2" key="index"/>
@@ -92,6 +99,7 @@
 		<item value="false" key="JarManifestWizardPage.SAVE_MANIFEST"/>
 		<item value="false" key="JarPackageWizardPage.EXPORT_OUTPUT_FOLDER"/>
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\Users\Admin\Documents\Uni Stuff\comp307\A2Part2.jar"/>
 			<item value="C:\Users\Admin\Documents\Uni Stuff\comp307\doesthiswork.jar"/>
 		</list>
 	</section>

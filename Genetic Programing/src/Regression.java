@@ -10,7 +10,7 @@ import org.jgap.gp.terminal.*;
 import org.jgap.gp.*;
 import org.jgap.gp.function.*;
 
-public class Main {
+public class Regression {
 
 	public static Float[][] readTable(String tableFileName) throws FileNotFoundException {
 
@@ -39,10 +39,11 @@ public class Main {
 		// ----------------------------------------------------------------------
 		config.setGPFitnessEvaluator(new DeltaGPFitnessEvaluator());
 		config.setMaxInitDepth(6);
-		config.setPopulationSize(1000);
+		config.setPopulationSize(300);
 		Float[][] xAndY = readTable(args[0]);
 		config.setFitnessFunction(new RegressionFitnessFunction(xAndY[0], xAndY[1]));
-
+		config.setMutationProb(0.05f);
+		config.setReproductionProb(0.05f);
 		GPGenotype gp = create(config);
 		// Do 100 evolutions in a row.
 		// ---------------------------
@@ -64,7 +65,6 @@ public class Main {
 						new Divide(a_conf, CommandGene.FloatClass), new Pow(a_conf, CommandGene.FloatClass),
 						// Use terminal with possible value from 2.0 to 10.0
 						// decimal
-						new Terminal(a_conf, CommandGene.FloatClass,-10.0d, 10.0d, true),
 						new Terminal(a_conf, CommandGene.FloatClass,-10.0d, 10.0d, true),} };
 		// Create genotype with initial population.
 		// Allow max. 100 nodes within one program.

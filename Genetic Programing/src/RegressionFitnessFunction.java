@@ -39,7 +39,10 @@ public class RegressionFitnessFunction extends GPFitnessFunction {
 				// Sum up the error between actual and expected result to get a defect
 				// rate.
 				// -------------------------------------------------------------------
-				error += Math.abs(result - y[i]);
+				double mod = 1.0;
+				if (x[i] >= -0.5 && x[i] < 0.5) mod = 4*Math.pow((x[i]+0.5), 2.0) + 1.0;
+				if (x[i] >= 0.5 && x[i] <= 1.5) mod = 4*Math.pow((x[i]-1.5), 2.0) + 1.0;
+				error += Math.abs(result - y[i])*mod;
 				// If the error is too high, stop evlauation and return worst error
 				// possible.
 				// ----------------------------------------------------------------
