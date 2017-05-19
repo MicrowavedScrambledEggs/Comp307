@@ -10,12 +10,19 @@
 <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="org.jgap.gp.CommandGene"/>
 <fullyQualifiedTypeName name="RegressionFitnessFunction"/>
 <fullyQualifiedTypeName name="org.jgap.gp.terminal.Variable"/>
 <fullyQualifiedTypeName name="org.jgap.gp.function.Add"/>
 <fullyQualifiedTypeName name="org.jgap.FitnessFunction"/>
 <fullyQualifiedTypeName name="org.jgap.IChromosome"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.jgap.DefaultFitnessEvaluator"/>
+<fullyQualifiedTypeName name="org.jgap.gp.impl.DefaultGPFitnessEvaluator"/>
+<fullyQualifiedTypeName name="org.jgap.gp.IGPProgram"/>
+<fullyQualifiedTypeName name="ClassifierFitnessFunction"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
